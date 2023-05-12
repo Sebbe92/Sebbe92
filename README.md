@@ -1,4 +1,5 @@
-<h1>Hello! My name is Sebastian Thank you for visiting my githubpage</h1>
+<h1>Hello! My name is Sebastian </h1>
+Thank you for visiting my githubpage
 <a href="https://sebastianksportfolio.netlify.app/">Portfolio</a>
 I'm currently studying to become a full-stack developer.
 <h2>Prefered web stack</h2>
