@@ -1,6 +1,7 @@
 <h1>Hello! My name is Sebastian </h1>
+<a href="https://sebastianksportfolio.netlify.app/">Portfolio</a><br/>
 Thank you for visiting my githubpage<br/>
-<a href="https://sebastianksportfolio.netlify.app/">Portfolio</a>
+
 I'm currently studying to become a full-stack developer.
 <h2>Prefered web stack</h2>
 <ul><li>HTML&CSS</li><li>Javascript</li><li>React/Nextjs</li><li>Node.js</li></ul>
