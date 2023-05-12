@@ -2,6 +2,7 @@
 I'm currently studying to become a full-stack developer.
 <h2>Prefered web stack</h2>
 <ul><li>HTML&CSS</li><li>Javascript</li><li>React/Nextjs</li><li>Node.js</li></ul>
+<a href="https://sebastianksportfolio.netlify.app/">My Portfolio</a>
 <!---
 Sebbe92/Sebbe92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
