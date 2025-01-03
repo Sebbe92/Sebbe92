@@ -1,6 +1,6 @@
 <h1 class="m-0">Hello! My name is Sebastian </h1>
 <h4>Thank you for visiting my githubpage</h4>
-<a href="https://sebastianksportfolio.netlify.app/">Portfolio</a><br/>
+<a href="https://sebastiank.no/">Portfolio page</a><br/>
 
 
 <p>I'm currently studying to become a full-stack developer.</p>
